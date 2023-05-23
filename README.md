@@ -5,7 +5,7 @@ To develop a streaming webserver, that can handle 100 concurrent users. The syst
 >> The web application "Streaming webserver" it can handle more number of concurrent users without any buffering intteruption while playing video and audio files.
 >> It can accessible on any device through interent.
 # Implementation Details
- >>STEPS TO IMPLEMENT AN  STREAMING APPLICATION USING AWS
+STEPS TO IMPLEMENT AN  STREAMING APPLICATION USING AWS
 STEP1: Create an AWS account(free tier) and sign in.
 STEP2: Goto AWS Management Console and Select S3(Simple Storage Service).
 STEP3: Create a new S3 bucket.
