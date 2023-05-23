@@ -1,0 +1,38 @@
+<style>
+      body {
+        font-family: "Courier New",Courier , monpspace;
+        background-color: grey;
+      }
+	  
+      h1{
+        color:black ;
+        text-align: center;
+        margin-top: 30px;
+		font-family : "Courier New",Courier , monpspace;
+      }
+	  h3{
+		color: #98FB98;
+		font-family:"Courier New",Courier , monospace;
+	}
+	.divl{
+		float : left;
+		width:50%;
+		height:90%;
+		}
+      
+      audio {
+        display: block;
+        margin: 0 auto;
+ 
+        border-radius: 5px;
+      }
+	  .divr{
+		float:right;
+		width:50%;
+		height:90%;
+		}
+      
+      video:hover, audio:hover {
+        border-color: #666;
+      }
+    </style>
