@@ -2,8 +2,8 @@
 # Problem Statement:
 To develop a streaming webserver, that can handle 100 concurrent users. The system would need to be able to stream audio, video or other multimedia content to multiple users simultaneously.
 # Introduction:
->>The web application "Streaming webserver" it can handle more number of concurrent users without any buffering intteruption while playing video and audio files.
->>It can accessible on any device through interent.
+>> The web application "Streaming webserver" it can handle more number of concurrent users without any buffering intteruption while playing video and audio files.
+>> It can accessible on any device through interent.
 # Implementation Details
  >>STEPS TO IMPLEMENT AN  STREAMING APPLICATION USING AWS
 STEP1: Create an AWS account(free tier) and sign in.
@@ -30,7 +30,7 @@ STEP9: By Using URL We can visit the web page and Stream the A/V files.
 >> CloudFront: Reduces the Latency(delay time)
 
 # OUTCOMES:
-Visit Streaming Webserver:
+Visit Streaming Webserver through below url 100+ concurrent users at a time,it will work without any buffering issues.
 https://d1k386wu9uo20h.cloudfront.net/hackothan/index.html
 
 # Team Members
@@ -45,6 +45,8 @@ https://d1k386wu9uo20h.cloudfront.net/hackothan/index.html
 # TEAM ACKNOWLEDGEMENT
 We would like to express our special thanks to RGMCET Management and BYTS INDIA Team for conducting and supporting,24 hours HACKTHON in a peaceful environment.
 
+# Connect
+For any queries & suggestions please contact kaminikondasivaprathap@gmail.com
 
 
 
