@@ -11,7 +11,7 @@ STEP2: Goto AWS Management Console and Select S3(Simple Storage Service).
 STEP3: Create a new S3 bucket.
 STEP4: Store Audio & Video files into S3 bucket.Each file generate a  valid "key".
 STEP5: Search and Select CloudFront in AWS Management Console.
-STEP6: Configure this CloudFront with S3 bucket which is stored audio &          video files.
-STEP7: After configuration the Cloudfront Will Generate Valid "Domain    Name".
+STEP6: Configure this CloudFront with S3 bucket which is stored audio & video files.
+STEP7: After configuration the Cloudfront Will Generate Valid "Domain Name".
 STEP8: The Combination of Domain Name & Key will provides a final "URL".
 Ex: https://d1k386wu9uo20h.cloudfront.net/hackothan/index.html
