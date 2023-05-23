@@ -24,10 +24,10 @@
 * index.html (Streaming Server webpage)
 
 # Benefits of AWS for Streaming Webserver:
->> Data Security
->> S3 Bucket:Storage
->> Load Balanciers: Manages & Processes the Concurrent requests.
->> CloudFront: Reduces the Latency(delay time)
+* Data Security
+* S3 Bucket:Storage
+* Load Balanciers: Manages & Processes the Concurrent requests.
+* CloudFront: Reduces the Latency(delay time)
 
 # OUTCOMES:
 Visit Streaming Webserver through below url 100+ concurrent users at a time,it will work without any buffering issues.
